@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eneztezi
-- 👀 I’m interested in Pyhton, R, C#
+- 👀 I’m interested in Pyhton, R, C#, JAVA, PSQL, T-SQL, MySQL, PowerBI
 - 🌱 I’m currently learning Pyhton, R, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhammetenesbatur@gmail.com and 05344066657 TR- My phone number.
